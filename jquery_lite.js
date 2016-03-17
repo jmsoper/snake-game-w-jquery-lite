@@ -16,8 +16,6 @@
     }
   };
 
-
-
   var DOMNodeCollection = function(htmlEls){
     this.htmlEls = htmlEls;
     this.length = htmlEls.length;
